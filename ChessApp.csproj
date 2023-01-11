@@ -7,9 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="src\Program.cs" />
     <Content Include="src\ChessApp\Pieces\Piece.cs" />
     <Content Include="src\ChessApp\Pieces\Color.cs" />
     <Content Include="src\ChessApp\Pieces\Pawn.cs" />
+    <Content Include="src\ChessApp\Program.cs" />
   </ItemGroup>
 </Project>
