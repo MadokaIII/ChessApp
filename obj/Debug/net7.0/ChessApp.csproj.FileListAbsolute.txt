@@ -1,0 +1,15 @@
+/Users/daoudlamalmi/Documents/ChessApp/bin/Debug/net7.0/ChessApp
+/Users/daoudlamalmi/Documents/ChessApp/bin/Debug/net7.0/ChessApp.deps.json
+/Users/daoudlamalmi/Documents/ChessApp/bin/Debug/net7.0/ChessApp.runtimeconfig.json
+/Users/daoudlamalmi/Documents/ChessApp/bin/Debug/net7.0/ChessApp.dll
+/Users/daoudlamalmi/Documents/ChessApp/bin/Debug/net7.0/ChessApp.pdb
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ChessApp.csproj.AssemblyReference.cache
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ChessApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ChessApp.AssemblyInfoInputs.cache
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ChessApp.AssemblyInfo.cs
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ChessApp.csproj.CoreCompileInputs.cache
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ChessApp.dll
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/refint/ChessApp.dll
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ChessApp.pdb
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ChessApp.genruntimeconfig.cache
+/Users/daoudlamalmi/Documents/ChessApp/obj/Debug/net7.0/ref/ChessApp.dll
